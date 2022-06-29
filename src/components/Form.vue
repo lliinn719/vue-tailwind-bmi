@@ -115,8 +115,4 @@ export default {
 };
 </script>
 
-<style lang="postcss">
-.card {
-  width: 450px;
-}
-</style>
+<style lang="postcss"></style>
